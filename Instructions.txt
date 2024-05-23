@@ -1,0 +1,3 @@
+Importer le script ept_db.sql
+Le compte admin a pour code 00EPT00 et pour mdp aaaa (connexion en tant qu'enseignant)
+Tous les autres comptes ont pour mot de passe aaaa (leurs matricules/codes sont dans le script)
