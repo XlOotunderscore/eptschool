@@ -78,8 +78,8 @@
                 <div class="row">
                     <div class="offset-xl-3 col-xl-6 offset-lg-2 col-lg-8 col-md-12 col-sm-12">
                          <?php loadWarnings(""); ?>
-                         <div class="main-button-slider"></div>
-                        
+                        <h1>Plate-forme de gestion <strong>des activités</strong><br>de l' <strong>Etablissement EPT</strong></h1>
+                        <p>Nous proposons une gestion plus facile et économique des activités de l'etablissement </p>
                         <a href="#Processus" class="main-button-slider">Plus d'infos</a>
                     </div>
                 </div>
